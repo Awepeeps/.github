@@ -1,6 +1,6 @@
 # Awepeeps
 
-A gaming community for shared adventures, multiworld randomizers, and seasonal Minecraft.
+Video Games!
 
 ## What we're working on
 
